@@ -3,7 +3,7 @@ Filters I use to keep my internet clean. Avaiable for [uBlock Origin](https://ub
 ### 🚧 currently work in progress 🚧
 ## Filters
 ### uBlock Origin
-cuurently not optimized, blocks ***EVERYTHING*** and eats a lot of computer resources
+cuurently not optimized, blocks ***EVERYTHING*** and eats ***a lot*** of computer resources
 ```
 https://api.stopmodreposts.org/hosts.txt
 https://big.oisd.nl/
