@@ -13,12 +13,6 @@ https://hblock.molinero.dev/hosts_adblock.txt
 https://nsfw.oisd.nl/
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
-https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/abuse.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt
@@ -37,6 +31,9 @@ https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadbl
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt
@@ -53,6 +50,9 @@ https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/s
 https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos
 https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
 https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 https://raw.githubusercontent.com/tigthor/NSA-CIA-Blocklist/main/HOSTS/HOSTS
 https://raw.githubusercontent.com/tigthor/NSA-CIA-Blocklist/main/HOSTS/Trackers/trackers.txt
 ```
