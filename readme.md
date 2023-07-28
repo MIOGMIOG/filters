@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblo
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
-https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/abuse.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/drugs.txt
