@@ -1,5 +1,6 @@
 # MIOG_MIOG's adblock filter collection
 Filters I use to keep my internet clean. Avaiable for [uBlock Origin](https://ublockorigin.com/) and [Pi-hole](https://pi-hole.net/) (also avaiable in hosts version)
+**still work in progress**
 ## Optimized filters
 ### uBlock Origin
 Shouldn't interfere with normal web browsing, if u want better protection, replace `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt` with `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt`
