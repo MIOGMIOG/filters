@@ -1,7 +1,23 @@
 # MIOG_MIOG's adblock filter collection
 Filters I use to keep my internet clean. Avaiable for [uBlock Origin](https://ublockorigin.com/) and [Pi-hole](https://pi-hole.net/) (also avaiable in hosts version)
-### 🚧 currently work in progress 🚧
-## Filters
+## Optimized filters
+### uBlock Origin
+```
+https://api.stopmodreposts.org/hosts.txt
+https://big.oisd.nl/
+https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw/075730736556afca5c5c029eff823122754a9d7a/fmhy-unsafe-sites-software.txt
+https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
+https://nsfw.oisd.nl/
+https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock-mining.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
+https://raw.githubusercontent.com/tigthor/NSA-CIA-Blocklist/main/HOSTS/HOSTS
+```
+## Badly Optimized filters
 ### uBlock Origin
 cuurently not optimized, blocks ***EVERYTHING*** and eats ***a lot*** of computer resources
 ```
