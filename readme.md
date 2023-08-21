@@ -3,7 +3,7 @@ Filters I use to keep my internet clean. Avaiable for [uBlock Origin](https://ub
 **still work in progress**
 ## Optimized filters
 ### uBlock Origin
-Shouldn't interfere with normal web browsing, if u want better protection, replace `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt` with `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt`
+Shouldn't interfere with normal web browsing, if u want better protection, replace `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt` with `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt`
 ```
 https://api.stopmodreposts.org/hosts.txt
 https://big.oisd.nl/
@@ -13,9 +13,10 @@ https://nsfw.oisd.nl/
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock-mining.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt
+https://raw.githubusercontent.com/stephenhawk8054/PrivacyExtended/main/privacy_extended.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 https://raw.githubusercontent.com/tigthor/NSA-CIA-Blocklist/main/HOSTS/HOSTS
 ```
