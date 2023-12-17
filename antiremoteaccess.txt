@@ -1,0 +1,39 @@
+[Adblock Plus 2.0]
+! Title: MIOG_MIOG's anti-remote access programs list
+! Description: This filterist blocks domains of some remote access programs
+! Expires: 7 days
+! Homepage: https://github.com/miogmiog/filters
+
+! TeamViewer
+||teamviewer.com^$all
+||teamviewer.us^$all
+||teamviewer.cn^$all
+! AnyDesk
+||anydesk.com^$all
+! LogMeIn
+||logmein.com^$all
+||logmeininc.com^$all
+||logmeinrescue.com^$all
+||gotomypc.com^$all
+||goto.com^$all
+||expertcity.com^$all
+||lmiutil.com^$all
+||logmein-gateway.com^$all
+! Chrome Remote Desktop
+||remotedesktop.google.com^$all
+! getscreen[.]me
+||getscreen.me^$all
+! AnyViewer
+||anyviewer.com^$all
+! RustDesk
+||rustdesk.com^$all
+||github.com/rustdesk/$all
+||raw.githubusercontent.com/rustdesk/$all
+! Distant Desktop
+||distantdesktop.com^$all
+! AeroAdmin
+||aeroadmin.com^$all
+! JumpDesktop
+||jumpdesktop.com^$all
+! ImperiusRemote
+||iperiusremote.com^$all
